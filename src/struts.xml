@@ -12,7 +12,7 @@
 
         <action name="*_Student" class="action.LoginAction" method="{1}">
             <result name="success" >/success.jsp</result>
-            <result name="false">/index.jsp</result>
+            <result name="false">/success.jsp</result>
        </action>
 
     </package>
